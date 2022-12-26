@@ -1,1 +1,1 @@
-# 10x-Academy-Management
+# 10x-Academy-Managemet
